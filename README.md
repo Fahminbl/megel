@@ -1,2 +1,2 @@
-# Magel
+# Megel
 Belajar programming web
