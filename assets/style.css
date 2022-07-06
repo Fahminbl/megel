@@ -6,7 +6,7 @@ body {
 nav{
   padding: 5px;
   background: #858DE8;
-  position: relative;
+  position: sticky;
 }
 nav h1{
   margin: 0px 20px;
