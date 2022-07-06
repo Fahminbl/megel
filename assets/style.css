@@ -6,7 +6,10 @@ body {
 nav{
   padding: 5px;
   background: #858DE8;
-  position: sticky;
+  /*Tak tambaih ya dzak*/
+  position: fixed;
+  top: 0;
+  Z-index: 1;
 }
 nav h1{
   margin: 0px 20px;
